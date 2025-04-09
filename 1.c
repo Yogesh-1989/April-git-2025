@@ -7,3 +7,13 @@ lets code in c language
 '
 
 I love India and C programming
+
+
+Hum 77 hai 
+  janmo ke sathi hum sath sath hai
+
+
+
+dil ke badale sanm 
+
+learn devops an ddata engineering for the automation 
